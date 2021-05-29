@@ -19,6 +19,16 @@
       <version>1.0.1</version>
       <type>jar</type>
     </dependency>
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20210307</version>
+    </dependency>
+    <dependency>
+      <groupId>com.sendgrid</groupId>
+      <artifactId>sendgrid-java</artifactId>
+      <version>4.7.2</version>
+    </dependency>
   </dependencies>
 
   <!-- Required for Java 11 functions in the inline editor -->
